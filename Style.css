@@ -1,6 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    background-color: bisque;
+    
+}
+
+img{
+    width: 50;
+    height: 100;
 }
 
 .products, .cart {
@@ -10,19 +17,19 @@ body {
 }
 
 .product, .cart-item {
-    border: 1px solid #ccc;
+    border: 1px solid #e72a2a;
     padding: 10px;
     margin-bottom: 10px;
 }
 
 button {
-    background-color: #008CBA;
-    color: #fff;
+    background-color: #e61414;
+    color: #fae4e4;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #005f6b;
+    background-color: #006b3e;
 }
