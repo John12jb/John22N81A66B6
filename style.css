@@ -23,11 +23,12 @@ img{
 }
 
 button {
-    background-color: #e61414;
+    background-color: #e65e14;
     color: #fae4e4;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
+    border-radius: 50px;
 }
 
 button:hover {
